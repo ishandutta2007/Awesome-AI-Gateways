@@ -21,26 +21,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core AI Gateway Platforms
+### Core AI Gateway Comparison
+
+| SaaS Product | Pricing Model | Free Tier Limit | Key Features |
+| :--- | :--- | :--- | :--- |
+| **[OpenRouter](https://openrouter.ai/)** | Pay-as-you-go | 50 req/day (Free models) | Aggregates 100+ LLMs; smart routing & fallback. |
+| **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** | Usage-based | 100,000 logs/month | Edge-native; unlimited requests; caching & rate limiting. |
+| **[Portkey](https://portkey.ai/)** | Pay-as-you-go | 10,000 logs/month | Observability, caching, guardrails, and multi-provider routing. |
+| **[Helicone](https://helicone.ai/)** | Usage-based | 10,000 requests/month | LLM observability, custom properties, and cost tracking. |
+| **[PromptLayer](https://promptlayer.com/)** | Usage-based | 2,500 requests/month | Prompt management, versioning, and evaluation middleware. |
+| **[LiteLLM Cloud](https://litellm.ai/)** | Enterprise ($250/mo+) | 7-30 day trial | Managed proxy with RBAC, budget management, and SSO. |
+| **[Glama](https://glama.ai/)** | Pay-as-you-go | Free MCP hosting | Performance-focused gateway and MCP server hosting. |
+
+### Platform Details
 
 - **[OpenRouter](https://openrouter.ai/)**  
   Leading intelligent router that aggregates dozens of LLMs with smart model routing, fallback, and competitive pricing.
-
 - **[LiteLLM](https://litellm.ai/)** (with hosted options)  
   Popular proxy layer with unified API and advanced routing, logging, and cost management features.
-
 - **[Portkey](https://portkey.ai/)**  
   Full-featured AI gateway with observability, caching, guardrails, and multi-provider routing.
-
 - **[Glama](https://glama.ai/)**  
   Modern AI gateway focused on performance, reliability, and developer-friendly features.
-
 - **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)**  
   Edge-native gateway with powerful caching, rate limiting, and global performance benefits.
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: Helicone, PromptLayer, and various enterprise LLM gateways.
+- **[Helicone](https://helicone.ai/)**  
+  Popular observability platform for LLMs with easy integration via proxy or SDK.
+- **[PromptLayer](https://promptlayer.com/)**  
+  Specialized platform for prompt engineering, management, and tracking production LLM usage.
 
 ## Open-Source GitHub Projects
 
