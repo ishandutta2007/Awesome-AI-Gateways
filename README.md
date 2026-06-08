@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LLM-Routing-FF69B4" alt="LLM Routing" />
     <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Gateways?style=flat&color=yellow" alt="Stars" />
     <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Gateways" alt="Last Commit" />
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow">
+	<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
   </p>
 
   <h4>Unified API • Load Balancing • Fallbacks • Cost Tracking • Observability</h4>
@@ -150,7 +150,8 @@ model = ChatOpenAI(model="gpt-4o")
 4. Submit PR with a short explanation.
 
 
-![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)
+
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 
 ---
