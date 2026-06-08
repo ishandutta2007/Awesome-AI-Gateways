@@ -141,6 +141,12 @@ model = ChatOpenAI(model="gpt-4o")
 
 ---
 
+## 🔐 Agent Identity & Trust Verification
+
+| Tool | Type | Description |
+|------|------|-------------|
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | MCP Server | On-chain trust scoring for AI agents on Solana. Call `score_agent(wallet)` to get a behavioral trust score or `preflight_check(wallet)` for a binary go/no-go before routing requests to agent wallets. Free streamable-HTTP MCP — no key required. `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` |
+
 ## 🤝 How to Contribute
 
 1. Fork the repo.
