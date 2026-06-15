@@ -35,7 +35,7 @@ Not sure where to start? Use this quick guide:
 
 | Your situation | Recommended option |
 |---|---|
-| Student or beginner experimenting with LLMs | OpenRouter (free tier, 50 req/day) or LangChain |
+| Student or beginner experimenting with LLMs | OpenRouter (1M free req/mo) or LangChain |
 | Building a production app and need observability | Portkey or Helicone |
 | Want everything self-hosted and private | LiteLLM open-source |
 | Need edge performance and global scale | Cloudflare AI Gateway |
@@ -57,32 +57,32 @@ Not sure where to start? Use this quick guide:
 
 ### 📊 Core AI Gateway Comparison
 
-| SaaS Product | Pricing Model | Free Tier Limit | Key Features |
-| :--- | :--- | :--- | :--- |
-| **[OpenRouter](https://openrouter.ai/)** | Pay-as-you-go | 50 req/day (Free models) | Aggregates 100+ LLMs; smart routing & fallback. |
-| **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** | Usage-based | 100,000 logs/month | Edge-native; unlimited requests; caching & rate limiting. |
-| **[Portkey](https://portkey.ai/)** | Pay-as-you-go | 10,000 logs/month | Observability, caching, guardrails, and multi-provider routing. |
-| **[Helicone](https://helicone.ai/)** | Usage-based | 10,000 requests/month | LLM observability, custom properties, and cost tracking. |
-| **[PromptLayer](https://promptlayer.com/)** | Usage-based | 2,500 requests/month | Prompt management, versioning, and evaluation middleware. |
-| **[LiteLLM Cloud](https://litellm.ai/)** | Enterprise ($250/mo+) | 7-30 day trial | Managed proxy with RBAC, budget management, and SSO. |
-| **[Glama](https://glama.ai/)** | Pay-as-you-go | Free MCP hosting | Performance-focused gateway and MCP server hosting. |
+| SaaS Product | Company Size (Valuation/Revenue) | Pricing Model | Free Tier Limit | Key Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** | ~$76B Valuation | Usage-based | 100,000 logs/month | Edge-native; unlimited requests; caching & rate limiting. |
+| **[OpenRouter](https://openrouter.ai/)** | ~$1.3B Valuation | 5.5% Platform Fee | 1M req/mo (BYOK) | Aggregates 100+ LLMs; smart routing & fallback. |
+| **[Portkey](https://portkey.ai/)** | ~$130M (Acquired) | $49/mo+ | 10,000 logs/month | Observability, caching, guardrails, and multi-provider routing. |
+| **[Helicone](https://helicone.ai/)** | Acquired by Mintlify | $79/mo+ | 10,000 requests/month | LLM observability, custom properties, and cost tracking. |
+| **[PromptLayer](https://promptlayer.com/)** | ~$4.8M Valuation | $49/mo+ | 2,500 requests/month | Prompt management, versioning, and evaluation middleware. |
+| **[LiteLLM Cloud](https://litellm.ai/)** | ~$2.1M Raised | $250/mo+ | 7-30 day trial | Managed proxy with RBAC, budget management, and SSO. |
+| **[Glama](https://glama.ai/)** | Bootstrapped | $9/mo+ | Free MCP hosting | Performance-focused gateway and MCP server hosting. |
 
 ### 🛠️ Platform Details
 
-- **[OpenRouter](https://openrouter.ai/)** 🚀  
-  Leading intelligent router that aggregates dozens of LLMs with smart model routing, fallback, and competitive pricing.
-- **[LiteLLM](https://litellm.ai/)** 🛡️  
-  Popular proxy layer with unified API and advanced routing, logging, and cost management features.
-- **[Portkey](https://portkey.ai/)** 🔑  
-  Full-featured AI gateway with observability, caching, guardrails, and multi-provider routing.
-- **[Glama](https://glama.ai/)** 💎  
-  Modern AI gateway focused on performance, reliability, and developer-friendly features.
 - **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** ☁️  
   Edge-native gateway with powerful caching, rate limiting, and global performance benefits.
+- **[OpenRouter](https://openrouter.ai/)** 🚀  
+  Leading intelligent router that aggregates dozens of LLMs with smart model routing, fallback, and competitive pricing.
+- **[Portkey](https://portkey.ai/)** 🔑  
+  Full-featured AI gateway with observability, caching, guardrails, and multi-provider routing.
 - **[Helicone](https://helicone.ai/)** 🔦  
   Popular observability platform for LLMs with easy integration via proxy or SDK.
 - **[PromptLayer](https://promptlayer.com/)** 📑  
   Specialized platform for prompt engineering, management, and tracking production LLM usage.
+- **[LiteLLM](https://litellm.ai/)** 🛡️  
+  Popular proxy layer with unified API and advanced routing, logging, and cost management features.
+- **[Glama](https://glama.ai/)** 💎  
+  Modern AI gateway focused on performance, reliability, and developer-friendly features.
 
 ---
 
