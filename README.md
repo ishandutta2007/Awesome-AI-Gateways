@@ -90,37 +90,35 @@ Not sure where to start? Use this quick guide:
 
 ### 🛠️ Dedicated AI Gateway & Proxy Solutions
 
-- **[LiteLLM](https://github.com/BerriAI/litellm)** ⭐  
+- **[Open WebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) 🐳  
+  Complete local LLM platform with robust API gateway and multi-model routing capabilities.
+
+- **[vLLM](https://github.com/vllm-project/vllm)** [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) ⚡  
+  High-performance inference server with custom gateway layers for production LLM routing.
+
+- **[LiteLLM](https://github.com/BerriAI/litellm)** [![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers) ⭐  
   The most popular open-source LLM proxy and gateway. Supports 100+ models with unified OpenAI-compatible API, load balancing, fallback, caching, logging, and cost tracking.
 
-- **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** 🧩  
+- **[FastChat](https://github.com/lm-sys/FastChat)** [![Stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social&color=white)](https://github.com/lm-sys/FastChat/stargazers) 💬  
+  Open platform for training, serving, and evaluating chatbots with multi-model gateway support.
+
+- **[LocalAI](https://github.com/mudler/LocalAI)** [![Stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers) 🤖  
+  Self-hosted drop-in replacement for OpenAI with support for many backends and gateway features.
+
+- **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** [![Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers) 🧩  
   Open-source core of Portkey with powerful routing, observability, and guardrails capabilities.
 
 - **[OpenRouter Self-Hosted](https://github.com/search?q=openrouter+self+hosted)** 🏠  
   Community self-hosted routers inspired by OpenRouter with multi-provider support.
 
-- **[vLLM + FastAPI Gateways](https://github.com/vllm-project/vllm)** ⚡  
-  High-performance inference server with custom gateway layers for production LLM routing.
-
-- **[Ollama + Open WebUI](https://github.com/open-webui/open-webui)** 🐳  
-  Complete local LLM platform with robust API gateway and multi-model routing capabilities.
-
-- **[LocalAI](https://github.com/mudler/LocalAI)** 🤖  
-  Self-hosted drop-in replacement for OpenAI with support for many backends and gateway features.
-
-- **[FastChat](https://github.com/lm-sys/FastChat)** 💬  
-  Open platform for training, serving, and evaluating chatbots with multi-model gateway support.
-
 ### 📦 Additional Strong Open-Source Options
 
-- [LangChain](https://github.com/langchain-ai/langchain) is an open-source framework 
-for building LLM-powered applications with built-in support for routing between 
-multiple providers including OpenAI, Anthropic, Google Gemini, and more. 
-- [LangGraph](https://github.com/langchain-ai/langgraph) extends this with stateful, 
-multi-agent orchestration and conditional routing logic.
+- **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) — AI app platform with built-in model routing and gateway.
+- **[LangChain](https://github.com/langchain-ai/langchain)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers) is an open-source framework for building LLM-powered applications with built-in support for routing between multiple providers including OpenAI, Anthropic, Google Gemini, and more.
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers) extends this with stateful, multi-agent orchestration and conditional routing logic.
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers) — Microsoft’s AI orchestration with gateway-like features.
 
-**Best for:** Developers building AI agents, RAG pipelines, and multi-step 
-reasoning applications that need flexible, code-driven model routing.
+**Best for:** Developers building AI agents, RAG pipelines, and multi-step reasoning applications that need flexible, code-driven model routing.
 
 **Key features:**
 - Unified interface across 50+ LLM providers
@@ -137,8 +135,6 @@ from langchain_openai import ChatOpenAI
 model = ChatAnthropic(model="claude-sonnet-4-20250514")
 model = ChatOpenAI(model="gpt-4o")
 ```
-- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** — Microsoft’s AI orchestration with gateway-like features.
-- **[Dify](https://github.com/langgenius/dify)** — AI app platform with built-in model routing and gateway.
 
 ---
 
