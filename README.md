@@ -66,6 +66,7 @@ Not sure where to start? Use this quick guide:
 | **[PromptLayer](https://promptlayer.com/)** | ~$4.8M Valuation | $49/mo+ | 2,500 requests/month | Prompt management, versioning, and evaluation middleware. |
 | **[LiteLLM Cloud](https://litellm.ai/)** | ~$2.1M Raised | $250/mo+ | 7-30 day trial | Managed proxy with RBAC, budget management, and SSO. |
 | **[Glama](https://glama.ai/)** | Bootstrapped | $9/mo+ | Free MCP hosting | Performance-focused gateway and MCP server hosting. |
+| **[Prism API](https://github.com/go165/prism-api-promo)** | Independent gateway | Usage-based | Google signup trial balance | OpenAI-compatible access to GPT-5.5 and other model families with crypto-friendly recharge and vouchers. |
 
 ### 🛠️ Platform Details
 
@@ -83,6 +84,8 @@ Not sure where to start? Use this quick guide:
   Popular proxy layer with unified API and advanced routing, logging, and cost management features.
 - **[Glama](https://glama.ai/)** 💎  
   Modern AI gateway focused on performance, reliability, and developer-friendly features.
+- **[Prism API](https://github.com/go165/prism-api-promo)**  
+  Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options.
 
 ---
 
