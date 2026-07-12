@@ -60,36 +60,15 @@ Not sure where to start? Use this quick guide:
 
 | SaaS Product | Company Size (Valuation/Revenue) | Pricing Model | Free Tier Limit | Key Features |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** | ~$76B Valuation | Usage-based | 100,000 logs/month | Edge-native; unlimited requests; caching & rate limiting. |
-| **[OpenRouter](https://openrouter.ai/)** | ~$1.3B Valuation | 5.5% Platform Fee | 1M req/mo (BYOK) | Aggregates 100+ LLMs; smart routing & fallback. |
-| **[Portkey](https://portkey.ai/)** | ~$130M (Acquired) | $49/mo+ | 10,000 logs/month | Observability, caching, guardrails, and multi-provider routing. |
-| **[Helicone](https://helicone.ai/)** | Acquired by Mintlify | $79/mo+ | 10,000 requests/month | LLM observability, custom properties, and cost tracking. |
-| **[PromptLayer](https://promptlayer.com/)** | ~$4.8M Valuation | $49/mo+ | 2,500 requests/month | Prompt management, versioning, and evaluation middleware. |
-| **[LiteLLM Cloud](https://litellm.ai/)** | ~$2.1M Raised | $250/mo+ | 7-30 day trial | Managed proxy with RBAC, budget management, and SSO. |
-| **[Glama](https://glama.ai/)** | Bootstrapped | $9/mo+ | Free MCP hosting | Performance-focused gateway and MCP server hosting. |
-| **[Prism API](https://github.com/go165/prism-api-promo)** | Independent gateway | Usage-based | Google signup trial balance | OpenAI-compatible access to GPT-5.5 and other model families with crypto-friendly recharge and vouchers. |
-
-### 🛠️ Platform Details
-
-- **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** ☁️  
-  Edge-native gateway with powerful caching, rate limiting, and global performance benefits.
-- **[OpenRouter](https://openrouter.ai/)** 🚀  
-  Leading intelligent router that aggregates dozens of LLMs with smart model routing, fallback, and competitive pricing.
-- **[Portkey](https://portkey.ai/)** 🔑  
-  Full-featured AI gateway with observability, caching, guardrails, and multi-provider routing.
-- **[Helicone](https://helicone.ai/)** 🔦  
-  Popular observability platform for LLMs with easy integration via proxy or SDK.
-- **[PromptLayer](https://promptlayer.com/)** 📑  
-  Specialized platform for prompt engineering, management, and tracking production LLM usage.
-- **[LiteLLM](https://litellm.ai/)** 🛡️  
-  Popular proxy layer with unified API and advanced routing, logging, and cost management features.
-- **[Glama](https://glama.ai/)** 💎  
-  Modern AI gateway focused on performance, reliability, and developer-friendly features.
-- **[Prism API](https://github.com/go165/prism-api-promo)**  
-  Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options.
-
-- **[DaoXE](https://daoxe.com)** 🔌  
-  Multi-model multi-protocol AI API gateway for developers (Chat Completions, Responses, Anthropic Messages, image-compatible endpoints). Not OpenAI-only / not Claude-only. Examples: https://github.com/seven7763/DaoXE-AI
+| **[Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)** ☁️ | ~$76B Valuation | Usage-based | 100,000 logs/month | Edge-native gateway with powerful caching, rate limiting, unlimited requests, and global performance benefits. |
+| **[OpenRouter](https://openrouter.ai/)** 🚀 | ~$1.3B Valuation | 5.5% Platform Fee | 1M req/mo (BYOK) | Leading intelligent router that aggregates dozens of LLMs with smart model routing, fallback, and competitive pricing. |
+| **[Portkey](https://portkey.ai/)** 🔑 | ~$130M (Acquired) | $49/mo+ | 10,000 logs/month | Full-featured AI gateway with observability, caching, guardrails, and multi-provider routing. |
+| **[Helicone](https://helicone.ai/)** 🔦 | Acquired by Mintlify | $79/mo+ | 10,000 requests/month | Popular observability platform for LLMs with easy integration via proxy or SDK, custom properties, and cost tracking. |
+| **[PromptLayer](https://promptlayer.com/)** 📑 | ~$4.8M Valuation | $49/mo+ | 2,500 requests/month | Specialized platform for prompt engineering, management, versioning, evaluation middleware, and tracking production LLM usage. |
+| **[LiteLLM Cloud](https://litellm.ai/)** 🛡️ | ~$2.1M Raised | $250/mo+ | 7-30 day trial | Managed proxy with RBAC, budget management, SSO, unified API, advanced routing, logging, and cost management features. |
+| **[Glama](https://glama.ai/)** 💎 | Bootstrapped | $9/mo+ | Free MCP hosting | Modern AI gateway focused on performance, reliability, developer-friendly features, and MCP server hosting. |
+| **[Prism API](https://github.com/go165/prism-api-promo)** | Independent gateway | Usage-based | Google signup trial balance | Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options. |
+| **[DaoXE](https://daoxe.com)** 🔌 | Independent gateway | Usage-based | None / Unknown | Multi-model multi-protocol AI API gateway for developers (Chat Completions, Responses, Anthropic Messages, image-compatible endpoints). Not OpenAI-only / not Claude-only. Examples: https://github.com/seven7763/DaoXE-AI |
 
 ---
 
