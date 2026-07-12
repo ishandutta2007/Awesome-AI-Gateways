@@ -68,7 +68,6 @@ Not sure where to start? Use this quick guide:
 | **[LiteLLM Cloud](https://litellm.ai/)** 🛡️ | ~$2.1M Raised | $250/mo+ | 7-30 day trial | Managed proxy with RBAC, budget management, SSO, unified API, advanced routing, logging, and cost management features. |
 | **[Glama](https://glama.ai/)** 💎 | Bootstrapped | $9/mo+ | Free MCP hosting | Modern AI gateway focused on performance, reliability, developer-friendly features, and MCP server hosting. |
 | **[Prism API](https://github.com/go165/prism-api-promo)** | Independent gateway | Usage-based | Google signup trial balance | Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options. |
-| **[DaoXE](https://github.com/seven7763/DaoXE-AI)** [![Stars](https://img.shields.io/github/stars/seven7763/DaoXE-AI?style=social&color=white)](https://github.com/seven7763/DaoXE-AI/stargazers)🔌 | Independent gateway | Usage-based | None / Unknown | Multi-model multi-protocol AI API gateway for developers (Chat Completions, Responses, Anthropic Messages, image-compatible endpoints). Examples:  |
 
 ---
 
@@ -96,6 +95,9 @@ Not sure where to start? Use this quick guide:
 
 - **[OpenRouter Self-Hosted](https://github.com/search?q=openrouter+self+hosted)** 🏠  
   Community self-hosted routers inspired by OpenRouter with multi-provider support.
+
+- **[DaoXE](https://github.com/seven7763/DaoXE-AI)** [![Stars](https://img.shields.io/github/stars/seven7763/DaoXE-AI?style=social&color=white)](https://github.com/seven7763/DaoXE-AI/stargazers)🔌
+   Multi-model multi-protocol AI API gateway for developers (Chat Completions, Responses, Anthropic Messages, image-compatible endpoints)
 
 ### 📦 Additional Strong Open-Source Options
 
