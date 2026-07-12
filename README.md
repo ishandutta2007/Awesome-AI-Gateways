@@ -88,6 +88,9 @@ Not sure where to start? Use this quick guide:
 - **[Prism API](https://github.com/go165/prism-api-promo)**  
   Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options.
 
+- **[DaoXE](https://daoxe.com)** 🔌  
+  Multi-model multi-protocol AI API gateway for developers (Chat Completions, Responses, Anthropic Messages, image-compatible endpoints). Not OpenAI-only / not Claude-only. Examples: https://github.com/seven7763/DaoXE-AI
+
 ---
 
 ## 🏗️ Open-Source GitHub Projects
