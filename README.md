@@ -67,6 +67,7 @@ Not sure where to start? Use this quick guide:
 | **[PromptLayer](https://promptlayer.com/)** 📑 | ~$4.8M Valuation | $49/mo+ | 2,500 requests/month | Specialized platform for prompt engineering, management, versioning, evaluation middleware, and tracking production LLM usage. |
 | **[LiteLLM Cloud](https://litellm.ai/)** 🛡️ | ~$2.1M Raised | $250/mo+ | 7-30 day trial | Managed proxy with RBAC, budget management, SSO, unified API, advanced routing, logging, and cost management features. |
 | **[Glama](https://glama.ai/)** 💎 | Bootstrapped | $9/mo+ | Free MCP hosting | Modern AI gateway focused on performance, reliability, developer-friendly features, and MCP server hosting. |
+| **[Requesty](https://www.requesty.ai/)** 🧭 | ~$3M Raised | 5% markup on model costs | 1,000 req/day on free models | Go-based OpenAI-compatible router for 600+ models across 30+ providers with cost/latency/availability-based routing, failover chains, prompt caching, BYOK, budget caps, RBAC, and EU data residency. |
 | **[Prism API](https://github.com/go165/prism-api-promo)** | Independent gateway | Usage-based | Google signup trial balance | Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options. |
 | **[RunAPI](https://runapi.ai)** | Independent gateway | Usage-based | — | OpenAI-compatible gateway for running image, video, music/audio, and model API jobs from one endpoint. |
 
