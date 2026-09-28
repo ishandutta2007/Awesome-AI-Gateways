@@ -72,6 +72,7 @@ Not sure where to start? Use this quick guide:
 | **[RunAPI](https://runapi.ai)** | Independent gateway | Usage-based | — | OpenAI-compatible gateway for running image, video, music/audio, and model API jobs from one endpoint. |
 | **[XiuRouter](https://router.xiu.ai/)** | Independent / XiuLab Inc | Usage-based prepaid | — | Managed multi-model API with OpenAI Responses and Chat Completions, Anthropic Messages, and Gemini GenerateContent interfaces, scoped API keys, and per-request usage and cost records. |
 | **[TeamoRouter](https://teamorouter.com/blogs/gpt-6-astra-what-is)** | Independent gateway | Paid (usage-based prepaid) | — | Hosted multi-model gateway with agentic routing for coding agents, OpenAI/Anthropic/Gemini-compatible endpoints, and `gpt-6-astra` access (1.05M-token context), with Alipay payment support. |
+| **[APIClaw](https://apiclaw.biz)** | Independent gateway | Flat-rate $19–$129/mo | 50 free trial | OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM. |
 
 ---
 
