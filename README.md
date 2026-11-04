@@ -80,6 +80,7 @@ The global AI Gateway, LLM routing, and API proxy market is estimated to expand 
 | **[Prism API](https://github.com/go165/prism-api-promo)** | Independent / Bootstrapped | Usage-based | Google signup trial balance | Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options. |
 | **[RunAPI](https://runapi.ai)** | Independent / Bootstrapped | Usage-based | — | OpenAI-compatible gateway for running image, video, music/audio, and model API jobs from one endpoint. |
 | **[TeamoRouter](https://teamorouter.com/blogs/gpt-6-astra-what-is)** | Independent / Bootstrapped | Paid (usage-based prepaid) | — | Hosted multi-model gateway with agentic routing for coding agents, OpenAI/Anthropic/Gemini-compatible endpoints, and `gpt-6-astra` access (1.05M-token context), with Alipay payment support. |
+| **[CodeI Lab](https://www.codeilab.com/)** | Independent / Chase Chen (Singapore) | Trial $3/wk; Plus $9.90/mo; Pro $39.90/mo; Ultra $99.90/mo | — | Third-party GPT API gateway for coding agents, selling discounted credit for GPT-6 Astra/Sol, GPT-6.1 Sol/Terra and GPT-5.6 Sol/Terra over OpenAI or Claude protocols, with one-command setup for Claude Code, Codex CLI and OpenCode. |
 
 ---
 
