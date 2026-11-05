@@ -80,6 +80,7 @@ The global AI Gateway, LLM routing, and API proxy market is estimated to expand 
 | **[Prism API](https://github.com/go165/prism-api-promo)** | Independent / Bootstrapped | Usage-based | Google signup trial balance | Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options. |
 | **[RunAPI](https://runapi.ai)** | Independent / Bootstrapped | Usage-based | — | OpenAI-compatible gateway for running image, video, music/audio, and model API jobs from one endpoint. |
 | **[TeamoRouter](https://teamorouter.com/blogs/gpt-6-astra-what-is)** | Independent / Bootstrapped | Paid (usage-based prepaid) | — | Hosted multi-model gateway with agentic routing for coding agents, OpenAI/Anthropic/Gemini-compatible endpoints, and `gpt-6-astra` access (1.05M-token context), with Alipay payment support. |
+| **[TokenReply](https://www.tokenreply.com/)** | Independent (Antithink Labs Ltd) | Usage-based prepaid wallet, optional Plus plan at $5/month ([pricing](https://www.tokenreply.com/pricing)) | Free models to try, one-month Trial allowance for new accounts, daily check-in allowance | Hosted gateway built for AI roleplay: one key and an OpenAI-compatible endpoint (plus Anthropic Messages and Gemini formats) for DeepSeek, GLM, Claude, Gemini, Grok and more; setup guides for JanitorAI and SillyTavern, prompt caching for long chats, and automatic parameter clamping so frontends avoid 400 errors ([guides](https://www.tokenreply.com/guides)). |
 
 ---
 
