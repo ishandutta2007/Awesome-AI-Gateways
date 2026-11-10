@@ -85,6 +85,7 @@ The global AI Gateway, LLM routing, and API proxy market is estimated to expand 
 | **[Code By AI](https://www.codebyai.net/)** | ~$500K Est. Valuation (~$100K ARR) | Usage-based prepaid | — | Hosted OpenAI-compatible gateway for coding agents: one API key and one prepaid balance for Claude, GPT/Codex and Gemini models, used from Claude Code, Codex CLI, Gemini CLI, Cline and Trae by changing the base URL. |
 | **[RunAPI](https://runapi.ai)** | ~$400K Est. Valuation (~$80K ARR) | Usage-based | — | OpenAI-compatible gateway for running image, video, music/audio, and model API jobs from one endpoint. |
 | **[Prism API](https://github.com/go165/prism-api-promo)** | ~$300K Est. Valuation (~$50K ARR) | Usage-based | Google signup trial balance | Independent OpenAI-compatible gateway for overseas developers, with low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options. |
+| **[TokenLab](https://tokenlab.sh/?utm_source=awesome-aigw-ishan&utm_medium=awesome-list)** | Independent (Bootstrapped) | Usage-based prepaid | — | Hosted OpenAI-compatible gateway (base URL api.tokenlab.sh) that also serves Anthropic Messages and Responses endpoints; one key across chat, image, speech, video and other model categories. |
 
 ---
 
