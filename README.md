@@ -152,6 +152,9 @@ The global AI Gateway, LLM routing, and API proxy market is estimated to expand 
 - **[DaoXE](https://github.com/seven7763/DaoXE-AI)** [![Stars](https://img.shields.io/github/stars/seven7763/DaoXE-AI?style=social&color=white)](https://github.com/seven7763/DaoXE-AI/stargazers) 🔌  
   Multi-model multi-protocol AI API gateway for developers (Chat Completions, Responses, Anthropic Messages, image-compatible endpoints)
 
+- **[Kaeso](https://github.com/logicplanes/kaeso)** [![Stars](https://img.shields.io/github/stars/logicplanes/kaeso?style=social&color=white)](https://github.com/logicplanes/kaeso/stargazers) 🦀  
+  Open-source (MIT), self-hosted AI gateway written in Rust, with OpenAI- and Anthropic-compatible APIs, SSO, budgets and request logs.
+
 ### 📦 Additional Strong Open-Source Options
 
 - **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) — AI app platform with built-in model routing and gateway.
